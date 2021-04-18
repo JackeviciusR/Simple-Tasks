@@ -1,0 +1,10 @@
+{
+    "name": "rokas/task_with_composer",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Miskas\\Didelis\\": "app/",
+            "Miskas\\Mazas\\": "app/"
+        }
+    }
+}
